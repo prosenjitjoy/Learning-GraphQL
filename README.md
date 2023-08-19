@@ -1,4 +1,5 @@
 # Learning-GraphQL
+
 Demo project used for learning how to define graphql schema, resolvers and how mutation works.
 
 ## server
@@ -12,6 +13,5 @@ bun install
 To run:
 
 ```bash
-bun run src/index.ts
+bun run dev
 ```
-
